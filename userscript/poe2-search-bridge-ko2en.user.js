@@ -1,6 +1,7 @@
 // ==UserScript==
 // ==UserScript==
 // @name         POE2 거래소 한영 서치 브릿지(POE2 Search Bridge Ko2En)
+// @author       thething99
 // @namespace    http://tampermonkey.net/
 // @version      0.52.7
 // @description  Automatically converts Korean Path of Exile 2 trade filters into English API queries
