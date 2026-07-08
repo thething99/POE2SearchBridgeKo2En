@@ -13,6 +13,9 @@
 
 1. [Tampermonkey](https://www.tampermonkey.net/) 설치
 2. `userscript/poe2-ko-to-en-search.user.js` 내용을 새 스크립트로 추가
+or
+https://raw.githubusercontent.com/thething99/POE2KoToEnSearch/main/userscript/poe2-search-bridge-ko2en.user.js 
+접속해서 자동 설치
 3. https://poe.kakaogames.com/trade2 접속
 
 ## 사용법
