@@ -17,15 +17,18 @@
 ## 설치
 
 1. [Tampermonkey](https://www.tampermonkey.net/) 설치
-(구글 크롬의 경우) <img width="342" height="431" alt="스크린샷 2026-07-09 015409" src="https://github.com/user-attachments/assets/c7bf7b35-6018-4ed9-930b-1160af408d77" />
-
-<img width="806" height="315" alt="image" src="https://github.com/user-attachments/assets/577d04c3-d5b6-4f11-b630-525b7b2b1d49" />
 
 2. `userscript/poe2-ko-to-en-search.user.js` 내용을 새 스크립트로 추가
 or
 https://raw.githubusercontent.com/thething99/POE2SearchBridgeKoEn/main/userscript/poe2-search-bridge-koen.user.js 
 접속해서 자동 설치
 3. https://poe.kakaogames.com/trade2 접속
+
+(구글 크롬의 경우) </br>
+<img width="342" height="431" alt="스크린샷 2026-07-09 015409" src="https://github.com/user-attachments/assets/c7bf7b35-6018-4ed9-930b-1160af408d77" /></br>
+장프로그램 관리에서 템퍼몽키 우클릭
+<img width="806" height="315" alt="image" src="https://github.com/user-attachments/assets/577d04c3-d5b6-4f11-b630-525b7b2b1d49" /></br>
+사용자 스크립트 허용에 체크
 
 ## 사용법
 
