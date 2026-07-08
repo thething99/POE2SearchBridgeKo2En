@@ -2,7 +2,7 @@
 // @name         POE2 Search Bridge KoEn
 // @author       thething99
 // @namespace    http://tampermonkey.net/
-// @version      1.53.0
+// @version      1.63.0
 // @description  Automatically converts Korean/Global Path of Exile 2 trade filters
 // @match        https://poe.kakaogames.com/trade2*
 // @match        https://www.pathofexile.com/trade2*
@@ -28,18 +28,18 @@
 
     // Load dictionary and check login status
     async function init() {
-        const cached = localStorage.getItem('poe2_item_dict_v2');
+        const cached = localStorage.getItem('poe2_item_dict_20260709a1');
         if (cached) {
             itemDict = JSON.parse(cached);
         } else {
             GM_xmlhttpRequest({
                 method: 'GET',
-                url: 'https://cdn.jsdelivr.net/gh/thething99/POE2_ItemDict@main/item_dict.json',
+                url: 'https://cdn.jsdelivr.net/gh/thething99/POE2_ItemDict@main/item_dict.json?v=20260709a1',
                 onload: (res) => {
                     const nested = JSON.parse(res.responseText);
                     itemDict = {};
                     for (const category of Object.values(nested)) Object.assign(itemDict, category);
-                    localStorage.setItem('poe2_item_dict_v2', JSON.stringify(itemDict));
+                    localStorage.setItem('poe2_item_dict_20260709a1', JSON.stringify(itemDict));
                 }
             });
         }
