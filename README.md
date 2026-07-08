@@ -1,7 +1,9 @@
 # POE2 Search Bridge kor-Eng
 
 카카오 PoE2 거래소와 글로벌(pathofexile.com) 거래소 간 검색을 위한 Tampermonkey 유저스크립트입니다.
+
 한국 검색 > 글로벌 결과
+
 글로벌 검색 > 한국 결과 
 
 
