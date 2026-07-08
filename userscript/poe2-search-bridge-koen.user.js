@@ -12,8 +12,8 @@
 // @connect      cdn.jsdelivr.net
 // @connect      www.pathofexile.com
 // @connect      poe.kakaogames.com
-// @updateURL    https://raw.githubusercontent.com/thething99/POE2SearchBridgeKoEn/main/userscript/poe2-search-bridge-koEn.user.js
-// @downloadURL  https://raw.githubusercontent.com/thething99/POE2SearchBridgeKoEn/main/userscript/poe2-search-bridge-koEn.user.js
+// @updateURL    https://raw.githubusercontent.com/thething99/POE2SearchBridgeKoEn/main/userscript/poe2-search-bridge-koen.user.js
+// @downloadURL  https://raw.githubusercontent.com/thething99/POE2SearchBridgeKoEn/main/userscript/poe2-search-bridge-koen.user.js
 // ==/UserScript==
 
 (function () {
