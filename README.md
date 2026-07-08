@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/thething99/POE2KoToEnSearch/main/userscript/po
 1. 카카오 PoE2 거래소에서 아이템·옵션 검색 조건 설정
 2. **글로벌 검색** 버튼 클릭
 3. 글로벌 거래소 결과가 새 탭에서 열림
+글로벌 거래소 > 한글 검색 동일
 
 ## 딕셔너리 CDN
 
